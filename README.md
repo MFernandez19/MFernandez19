@@ -41,15 +41,24 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
+  <!-- Core Languages and Libraries -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019-present%29.svg" alt="excel" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="50" height="50"/>
+  
+  <!-- Data Visualization -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="50" height="50"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/>
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" alt="streamlit" width="50" height="50"/>
+  
+  <!-- Databases & Data Handling -->
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="excel" width="50" height="50"/>
+  
+  <!-- Productivity & Organization -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="notion" width="50" height="50"/>
 </p>
 
 ---
