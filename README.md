@@ -74,8 +74,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" />
-</p>
-
 <p align="center">⚡ "My code runs on Python and my brain runs on curiosity (and coffee) ☕" ⚡</p>
