@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Data Scientist | AI Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" />
 </p>
 
 ---
@@ -17,10 +17,6 @@
   <tr>
     <td><strong>🌱 Currently Learning:</strong></td>
     <td>Algorithms, BI, Linux</td>
-  </tr>
-  <tr>
-    <td><strong>👯 Open to Collaborate:</strong></td>
-    <td><a href="https://www.kaggle.com/competitions/jane-street-real-time-market-data-forecasting">Jane Street Market Data Forecasting</a></td>
   </tr>
   <tr>
     <td><strong>🤝 Seeking Help With:</strong></td>
@@ -42,18 +38,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mfernandez19&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfernandez19&layout=compact&theme=radical" alt="Top Languages"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mfernandez19&theme=radical" alt="GitHub Streak"/>
-</p>
-
----
-
 ## 🛠️ Languages & Tools
 
 <p align="center">
@@ -63,8 +47,21 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/amazonwebservices/amazonwebservices-icon.svg" alt="aws" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019-present%29.svg" alt="excel" width="50" height="50"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mfernandez19&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfernandez19&layout=compact&theme=radical" alt="Top Languages"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mfernandez19&theme=radical" alt="GitHub Streaks"/>
 </p>
 
 ---
