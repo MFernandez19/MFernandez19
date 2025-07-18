@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td><strong>🌱 Currently Learning:</strong></td>
-    <td>Algorithms, BI, Linux</td>
+    <td>Machine Learning, Deep Learning, LLM</td>
   </tr>
   <tr>
     <td><strong>🤝 Seeking Help With:</strong></td>
